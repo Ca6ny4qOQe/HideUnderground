@@ -1,0 +1,11 @@
+name: HideUnderground
+version: 1.0.0
+main: gg.whirl.HideUnderground
+api-version: 1.21
+description: Advanced anti-freecam protection system
+folia-supported: true
+
+permissions:
+  hideunderground.bypass:
+    description: Bypass anti-freecam protection
+    default: op

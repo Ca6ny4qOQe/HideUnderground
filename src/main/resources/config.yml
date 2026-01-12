@@ -1,0 +1,12 @@
+hidden-y-level: 16
+
+reveal-y-level: 30
+
+chunk-reload-radius: 10
+
+replacement-block: stone
+
+enabled-worlds:
+  - world
+  - world_nether
+  - world_the_end
